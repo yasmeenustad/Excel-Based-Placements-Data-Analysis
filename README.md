@@ -11,6 +11,7 @@ Used Placements Dataset for creating meaningful insights and charts, and created
 4. Created the Dynamic Dashboard
 
 ## Dashboard:
+![Screenshot_20230817_031545](https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/40374056-ac71-4239-9e6c-a6ef03f50b3f)
 
 
 
