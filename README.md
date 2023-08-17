@@ -27,7 +27,8 @@ Used the Placements Dataset to generate insightful charts and a dynamic Dashboar
 
 
 ## Dashboard:
-![Screenshot_20230817_031545](https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/40374056-ac71-4239-9e6c-a6ef03f50b3f)
+![1](https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/1a523fa7-66a6-403c-9d35-a4e5350712c3)
+
 
 
 
