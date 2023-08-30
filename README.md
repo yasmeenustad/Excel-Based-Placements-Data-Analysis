@@ -6,10 +6,10 @@ Used the Placements Dataset to generate insightful charts and a dynamic Dashboar
 
 ![R](https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/16547420-0668-417f-8291-cae312c214cd)
 
-## Aim of the Project:
+##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Aim:
 The project aimed to leverage the Placements Dataset for generating insightful charts and a dynamic Dashboard. This was intended to showcase crucial details like Gender, Education scores, Specialization, and Placement status, with the goal of revealing key trends in education and job outcomes.
 
-## Objectives:
+##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
 - **Data Exploration:**
   - Conducted an in-depth exploration of the Placements dataset to unveil its underlying characteristics and content.
     
@@ -22,7 +22,7 @@ The project aimed to leverage the Placements Dataset for generating insightful c
 - **Interactive Dashboard Development:**
   - Designed and developed an interactive Dynamic Dashboard, offering an accessible platform to dynamically present critical insights and trends within the dataset.
  
-##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights:
+##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> Insights:
 
 1. Men have higher education levels compared to women
 2. Central board is the common choice for most candidates during SSC
