@@ -1,4 +1,4 @@
-# Placements Data Analysis:
+# **:Placements Data Analysis:**
 
 Used the Placements Dataset to generate insightful charts and a dynamic Dashboard, highlighting key information such as Gender, Education scores, Specialization, and Placement status. This helped us easily grasp trends in education and job outcomes.
 
