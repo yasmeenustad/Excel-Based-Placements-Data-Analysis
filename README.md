@@ -5,6 +5,11 @@ Used the Placements Dataset to generate insightful charts and a dynamic Dashboar
 ![R](https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/16547420-0668-417f-8291-cae312c214cd)
 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Aim:
+
+<br>
+  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/5426b979-9388-49f5-866d-16472697d210" width="500" align="right">
+<br>
+
 The project aimed to leverage the Placements Dataset for generating insightful charts and a dynamic Dashboard. This was intended to showcase crucial details like Gender, Education scores, Specialization, and Placement status, with the goal of revealing key trends in education and job outcomes.
 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
