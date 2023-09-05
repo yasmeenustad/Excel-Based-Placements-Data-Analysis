@@ -13,6 +13,7 @@ Used the Placements Dataset to generate insightful charts and a dynamic Dashboar
 The project aimed to leverage the Placements Dataset for generating insightful charts and a dynamic Dashboard. This was intended to showcase crucial details like Gender, Education scores, Specialization, and Placement status, with the goal of revealing key trends in education and job outcomes.
 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
+
 - **Data Exploration:**
   - Conducted an in-depth exploration of the Placements dataset to unveil its underlying characteristics and content.
     
