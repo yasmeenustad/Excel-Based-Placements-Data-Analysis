@@ -81,5 +81,9 @@ The project aimed to leverage the Placements Dataset for generating insightful c
 - **Gender and Earnings Disparity:**
   - On average, men earn more than women, highlighting a gender-based wage gap that requires attention and consideration.
 
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
+
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
+
 
 
