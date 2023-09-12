@@ -28,36 +28,32 @@ The project aimed to leverage the Placements Dataset for generating insightful c
  
 ##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> Insights:
 
-- **Education Gender Disparity:**
-  - Men's educational levels surpass those of women, suggesting a potential gender gap in educational attainment.
-
-- **Common SSC Board Preference:**
-  - The central board is favored by most SSC candidates, indicating its widespread acceptance as an educational choice.
-
 - **Higher Secondary Specialization Trend:**
   - Commerce specialization is notably widespread among Higher Secondary candidates, indicating a prevalent academic inclination.
 
 - **Placement Excellence for Communication and Management Graduates:**
   - Graduates in Communication and Management fields achieve the highest placement rates, reflecting their strong employability.
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/83e3feb7-1f37-444c-9125-25e35e14a5f9"  height="300" width="600"/>
+</div>
 
 - **Popular MBA Specializations:**
   - Marketing and Finance emerge as dominant MBA specializations, underlining candidates' prevalent career preferences.
-
-- **Complex Salary Correlation:**
-  - There's limited correlation between education percentages and salary, suggesting other factors impact earning potential.
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/b4c9f2dc-142a-4930-bc47-42ae2803d8f2"  height="300" width="600"/>
+</div>
 
 - **Aptitude Test's Predictive Value:**
   - Candidates exceeding 50% in the Aptitude Test are more likely to secure placements, emphasizing its predictive power.
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/cf3d881a-bb9c-412e-81cd-253d53ad50af"  height="300" width="600"/>
+</div>
 
 - **Decisive Role of Work Experience:**
   - Work experience significantly influences placements, indicating its pivotal role in candidates' job prospects.
-
-- **Gender-Based Employment Imbalance:**
-  - Gender disparity is evident in employment, with more men employed compared to women, warranting gender-inclusive strategies.
-
-- **Earnings Disparity Analysis:**
-  - A gender pay gap exists, with men's average earnings surpassing women's, prompting further examination of underlying factors.
-
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/bd95632a-85e8-40fb-a240-5062b572a8ee"  height="300" width="600"/>
+</div>
 
 ## Dashboard:
 ![Screenshot_20230904_010055](https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/71f03478-fa4a-4083-a55b-ca64191c7f06)
