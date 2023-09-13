@@ -88,7 +88,8 @@ The project aimed to leverage the Placements Dataset for generating insightful c
     - Ensuring data accuracy by handling missing values and correcting errors in column names can be time-consuming and intricate, contingent on dataset size and quality.
 
 - **Interactive Dashboard Development:**
-    - Crafting an effective and user-friendly interactive dashboard necessitates expertise in data visualization tools and programming languages, with an added complexity in achieving true interactivity and user-centered design.
+    - Crafting an effective and user-friendly interactive dashboard necessitates expertise in data visualization tools and programming languages, with an added complexity in achieving true interactivity and user-centered 
+      design.
 
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
 
@@ -105,6 +106,7 @@ The project aimed to leverage the Placements Dataset for generating insightful c
 - **Interactive Dashboards Aid Communication:**
     - The development of an interactive dynamic dashboard provided an accessible platform for presenting critical insights and trends. This underscores the value of interactive data visualization tools in effectively 
       communicating complex information to a broader audience.
+
 
 
 
