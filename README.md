@@ -59,7 +59,9 @@ The project aimed to leverage the Placements Dataset for generating insightful c
 </div>
 
 ## Dashboard:
-![Screenshot_20230904_010055](https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/71f03478-fa4a-4083-a55b-ca64191c7f06)
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/71f03478-fa4a-4083-a55b-ca64191c7f06)"  height="500" width="900"/>
+</div>
 
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/1334f205-b4ce-4125-b71f-a38637dec197" width="70" height="50" >Conlusions:
 - **Gender and Education Dynamics:**
