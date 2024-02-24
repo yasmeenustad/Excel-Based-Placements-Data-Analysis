@@ -37,7 +37,7 @@ The project aimed to leverage the Placements Dataset for generating insightful c
 - **Placement Excellence for Communication and Management Graduates:**
   - Graduates in Communication and Management fields achieve the highest placement rates, reflecting their strong employability.
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/83e3feb7-1f37-444c-9125-25e35e14a5f9"  height="300" width="600"/>
+    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/6485dd01-1c14-47cf-8d21-dbafe96acc80"  height="300" width="600"/>
 </div>
 
 - **Popular MBA Specializations:**
