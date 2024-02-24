@@ -60,7 +60,7 @@ The project aimed to leverage the Placements Dataset for generating insightful c
 
 ## Dashboard:
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/71f03478-fa4a-4083-a55b-ca64191c7f06)"  height="500" width="900"/>
+    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/e7e7ec1f-37b7-4bc0-b6f3-9bdd0faf3bca)"  height="500" width="900"/>
 </div>
 
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/1334f205-b4ce-4125-b71f-a38637dec197" width="70" height="50" >Conlusions:
