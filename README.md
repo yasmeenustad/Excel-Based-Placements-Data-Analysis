@@ -31,7 +31,7 @@ The project aimed to leverage the Placements Dataset for generating insightful c
 - **Higher Secondary Specialization Trend:**
   - Commerce specialization is notably widespread among Higher Secondary candidates, indicating a prevalent academic inclination.
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/69cb5e02-6998-4b2d-91c5-75ea3147fc72"  height="300" width="600"/>
+    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/aa17cbe7-7fa0-4847-be43-f09b9650748a"  height="300" width="600"/>
 </div>
 
 - **Placement Excellence for Communication and Management Graduates:**
