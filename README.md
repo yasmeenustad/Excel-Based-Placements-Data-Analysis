@@ -50,8 +50,9 @@ The project aimed to leverage the Placements Dataset for generating insightful c
 - **Aptitude Test's Predictive Value:**
   - Candidates exceeding 50% in the Aptitude Test are more likely to secure placements, emphasizing its predictive power.
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/cf3d881a-bb9c-412e-81cd-253d53ad50af"  height="300" width="600"/>
+    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/12d01c38-e211-49b6-944a-05640a8f7817"  height="300" width="600"/>
 </div>
+
 
 - **Decisive Role of Work Experience:**
   - Work experience significantly influences placements, indicating its pivotal role in candidates' job prospects.
