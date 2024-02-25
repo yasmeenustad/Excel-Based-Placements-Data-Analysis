@@ -57,7 +57,7 @@ The project aimed to leverage the Placements Dataset for generating insightful c
 - **Decisive Role of Work Experience:**
   - Work experience significantly influences placements, indicating its pivotal role in candidates' job prospects.
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/bd95632a-85e8-40fb-a240-5062b572a8ee"  height="300" width="600"/>
+    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/ee03109f-98fe-4c2e-814b-c73d42bb57cf"  height="300" width="600"/>
 </div>
 
 ## Dashboard:
