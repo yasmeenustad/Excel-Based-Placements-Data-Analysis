@@ -43,8 +43,9 @@ The project aimed to leverage the Placements Dataset for generating insightful c
 - **Popular MBA Specializations:**
   - Marketing and Finance emerge as dominant MBA specializations, underlining candidates' prevalent career preferences.
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/b4c9f2dc-142a-4930-bc47-42ae2803d8f2"  height="300" width="600"/>
+    <img src="https://github.com/yasmeenustad/Excel-Based-Placements-Data-Analysis/assets/112754746/f549c072-281a-454a-9daa-3d24b0131ab7"  height="300" width="600"/>
 </div>
+
 
 - **Aptitude Test's Predictive Value:**
   - Candidates exceeding 50% in the Aptitude Test are more likely to secure placements, emphasizing its predictive power.
